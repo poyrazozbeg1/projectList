@@ -1,5 +1,5 @@
 # Welcome to My GitHub
-
+## My main goal is to make my github profile a basic university for students and anyone who interested in these technologies and wants to improve themselves.
 <table>
   <tr>
     <th align="left">Simple Projects</th>
