@@ -7,7 +7,7 @@
     <th align="left">CTF List</th>
   </tr>
   <tr>
-    <td><a href="#">Simple Project 1</a></td>
+    <td><a href="https://github.com/poyrazozbeg1/AutoRefresher">Auto Refresher</a></td>
     <td><a href="#">Complex Project 1</a></td>
     <td><a href="#">CTF</a></td>
   </tr>
