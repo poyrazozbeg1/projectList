@@ -12,7 +12,7 @@
     <td><a href="#">CTF</a></td>
   </tr>
   <tr>
-    <td><a href="#">Simple Project 2</a></td>
+    <td><a href="https://github.com/poyrazozbeg1/md5-checker">MD5 Decoder/Encoder</a></td>
     <td><a href="#">Complex Project 2</a></td>
     <td><a href="#">CTF</a></td>
   </tr>
